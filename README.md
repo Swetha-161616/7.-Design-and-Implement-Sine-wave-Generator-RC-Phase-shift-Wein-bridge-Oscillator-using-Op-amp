@@ -76,6 +76,7 @@ Rf = 15K *2=30KΩ
 
 <img width="1280" height="389" alt="image" src="https://github.com/user-attachments/assets/789a9ae3-6b39-4654-b9e1-97274b6e2bc4" />
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ab973d66-f381-4841-ac15-fc23a1401458" />
 
   **TABULATION:**
   
